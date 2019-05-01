@@ -79,7 +79,6 @@ MLflow artifacts and then load them again for serving. There is an example train
 
 
 
-
 Contributing
 ------------
 We happily welcome contributions to MLflow. Please see our `contribution guide <CONTRIBUTING.rst>`_
